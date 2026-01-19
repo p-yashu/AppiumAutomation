@@ -16,6 +16,12 @@ public class AddAPI{
 		//when
 		//then
 		System.out.println("git demo");
+
+		System.out.println("git demo1");
+		
+
+		System.out.println("git demo2");
+
 		
 		//adding details = POST
 		RestAssured.baseURI="https://rahulshettyacademy.com";
